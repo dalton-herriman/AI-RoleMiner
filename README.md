@@ -69,5 +69,7 @@ MIT License
 
 ## 👤 Author
 Dalton Herriman
-[GitHub Profile]([https://github.com/dalton-herriman])
+[Dalton Herriman](https://github.com/dalton-herriman)
+
+---
 
