@@ -22,8 +22,6 @@ This project uses synthetic RBAC data to train a machine learning model that pre
 
 ---
 
----
-
 ## 🧪 Features
 
 - ✅ Synthetic RBAC data generation (users, permissions, roles)
@@ -50,3 +48,26 @@ pip install -r requirements.txt
 ---
 
 ## 📊 Usage
+
+---
+
+## 🚀 Future Improvements
+Use real IAM datasets
+
+[ ] Implement unsupervised role mining (e.g., clustering)
+
+[ ] Role optimization suggestions
+
+[ ] Web dashboard for results visualization
+
+---
+
+## 📜 License
+MIT License
+
+---
+
+## 👤 Author
+Dalton Herriman
+[GitHub Profile]([https://github.com/dalton-herriman])
+
