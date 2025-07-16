@@ -2,11 +2,11 @@ import random
 import json
 
 # Configuration
-NUM_USERS = 50
-NUM_PERMISSIONS = 30
-NUM_ROLES = 10
-MAX_PERMISSIONS_PER_ROLE = 6
-MAX_ROLES_PER_USER = 3
+NUM_USERS = 300
+NUM_PERMISSIONS = 60
+NUM_ROLES = 25
+MAX_PERMISSIONS_PER_ROLE = 10
+MAX_ROLES_PER_USER = 5
 
 def generate_permissions():
     return [f"perm_{i+1}" for i in range(NUM_PERMISSIONS)]
