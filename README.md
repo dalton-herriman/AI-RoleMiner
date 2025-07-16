@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ## 🚀 Future Improvements
 Use real IAM datasets
 
-- [ ] Implement unsupervised role mining (e.g., clustering)
+- [X] Implement unsupervised role mining (e.g., clustering)
 
 - [ ] Role optimization suggestions
 
